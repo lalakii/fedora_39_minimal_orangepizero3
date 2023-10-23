@@ -13,7 +13,7 @@
 [Fedora Linux 39](https://docs.fedoraproject.org/en-US/releases/f39/)
 
 ## 下载
-+ fedora_39_minimal_orangepi_zero3.raw.xz: [谷歌云盘](https://drive.google.com/file/d/1k0tczrzveX6vRP4lIOtSMydOF8-tewRg/view?usp=share_link) | [天翼云盘](https://cloud.189.cn/web/share?code=i6biU3YbUVF3) 访问码：40wr | [蓝奏云](https://a01.lanzout.com/b00xram0d) 密码: 8aih
++ fedora_39_minimal_orangepi_zero3.raw.xz: [谷歌云盘](https://drive.google.com/file/d/1k0tczrzveX6vRP4lIOtSMydOF8-tewRg/view?usp=share_link) | [天翼云盘](https://cloud.189.cn/t/mm6NF3aeEVRz) 访问码：ig1l | [蓝奏云](https://a01.lanzout.com/b00xram0d) 密码: 8aih
     + ssid: opi-zero3
     + ssh: root@192.168.10.254, 无密码
 + orangepizero3_uboot: [Github](https://github.com/leeboby/opizero3-uboot-dtb/)
