@@ -6,7 +6,7 @@ This image was ported from **Fedora-Minimal-Rawhide-20231018.n.0.aarch64**
 ## Quick Start
 
 1. Download *fedora_39_minimal_orangepi_zero3.raw.xz* and uboot.
-   + patch uboot using [ImagePatcher](https://github.com/lalakii/fedora_39_minimal_orangepizero3/blob/master/ImagePatcher.exe). (If the memory is 1.5G you can ignore this step)
+   + patch uboot using [ImagePatcher](https://github.com/lalakii/fedora_39_minimal_orangepizero3/blob/master/ImagePatcher.exe). (If the memory is 1.5G you can ignore this step), [YouTube](https://www.youtube.com/watch?v=YLmtxsbvnFM&ab_channel=lalakii)
 2. Burn *fedora_39_minimal_orangepi_zero3.raw* to sdcard using [Fedora Media Writer](https://fedoraproject.org/workstation/download/).
 
 ## Docs
