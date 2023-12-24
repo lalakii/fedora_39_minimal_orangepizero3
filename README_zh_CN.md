@@ -7,6 +7,7 @@
 1. 下载 *fedora_39_minimal_orangepi_zero3.raw.xz* 以及uboot文件（1.5G内存可以不用修补直接写入）
    + 解压缩镜像文件后, 使用 [ImagePatcher](https://github.com/lalakii/fedora_39_minimal_orangepizero3/blob/master/ImagePatcher.exe) 修补镜像的uboot
 2. 使用 [Fedora Media Writer](https://fedoraproject.org/workstation/download/) 将镜像文件 *fedora_39_minimal_orangepi_zero3.raw* 写入到SD卡
+[参考视频](https://www.bilibili.com/video/BV1Zb4y137j3/)
 
 ## 文档
 
